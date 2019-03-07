@@ -1,0 +1,39 @@
+server:
+  context-path: /uua
+  port: 8002
+
+spring:
+  data:
+    mongodb:
+      #username: root
+      #password: 123456
+      database: smartlott
+      port: 27017
+      host: localhost
+  cloud:
+    config:
+      enabled: false
+eureka:
+  client:
+    enabled: false
+
+security:
+  oauth2:
+    client:
+      access-token-validity-seconds: 2592000
+      refresh-token-validity-seconds: 2592000
+      client-id: browser
+    resource:
+      filter-order: 3
+
+
+service:
+  password:61e1906e-c95c-4d80-ad73-30de5897f5bf
+
+  account-service:
+
+jwt:
+  signing:
+    key: 345345fsdgsf5345
+  organization:
+    name: smartlott

@@ -1,0 +1,7 @@
+ spring:
+  cloud:
+    config:
+      uri: http://localhost:8001
+      fail-fast: true
+      username: root
+      password: s3cr3t

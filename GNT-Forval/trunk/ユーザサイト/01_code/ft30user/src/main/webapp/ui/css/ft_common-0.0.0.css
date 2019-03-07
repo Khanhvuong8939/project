@@ -1,0 +1,330 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #333333;
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-family: Arial, sans-serif;
+	line-height: 1.3;
+	min-width: 980px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+html,
+div,
+span,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+form,
+fieldset,
+input,
+button,
+textarea,
+label,
+legend,
+table,
+tr,
+th,
+td,
+caption,
+tbody,
+thead,
+tfoot,
+p,
+em,
+strong,
+sub,
+sup,
+a,
+blockquote,
+img,
+hr,
+section,
+article,
+aside,
+nav,
+header,
+footer,
+canvas {
+	 margin: 0px;
+	 padding: 0px;
+	 vertical-align: baseline;
+}
+
+h1,
+h2 {
+	font-size: 14px;
+	font-size: 1.4rem;
+	font-weight: normal;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+th {
+  font-style: normal;
+  font-weight: bold;
+}
+td {
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*--- レイアウト調整ボックス ---*/
+.ft-box-layout {
+  margin: 0 10px;
+  padding: 10px 5px 0;
+}
+/*--- 90%コンンテナ ---*/
+.ft-form-container-wide .ft-box-error {
+	padding: 20px;
+	margin: 0px auto;
+	background-color: #eeeeee;
+	color: #404040;
+	line-height: 18px;
+	background-color: #fdfdff;
+	margin-top: 10px;
+	border: 1px solid #aaaaaa;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	width: 90%;
+}
+
+.ft-title{
+	background: #444444;
+ }
+ 
+.ft-title h1 {
+	position: relative;
+	margin: 0 10px;
+	padding: 0.15em 0;
+	font-size: 17px;
+	font-size: 1.7rem;
+	font-weight: bold;
+	color: #ffffff;
+	text-shadow: -1px -1px 0px #000000;
+	text-align: left;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.ft-chapter-title {
+	position: relative;
+	padding: 3px;
+	margin-bottom: 10px;
+	border: 1px solid #aaaaaa;
+	background: #eeeeee;
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #fefefe), color-stop(100%, #dfdfdf));
+	background: -webkit-linear-gradient(#fefefe 0%, #dfdfdf 100%);
+	background: -moz-linear-gradient(#fefefe 0%, #dfdfdf 100%);
+	background: -ms-linear-gradient(#fefefe 0%, #dfdfdf 100%);
+	background: linear-gradient(#fefefe 0%, #dfdfdf 100%);
+	-webkit-border-top-left-radius: 3px;
+	-webkit-border-top-right-radius: 3px;
+	-webkit-border-bottom-right-radius: 3px;
+	-webkit-border-bottom-left-radius: 3px;
+	-moz-border-radius-topleft: 3px;
+	-moz-border-radius-topright: 3px;
+	-moz-border-radius-bottomright: 3px;
+	-moz-border-radius-bottomleft: 3px;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+}
+
+.ft-chapter-title h2 {
+	padding: 0 3px 0 10px;
+	border-left: #5166d2 solid 5px;
+	font-weight: bold;
+	color: #333333;
+	text-align: left;
+}
+
+.ft-table {
+  width: 100%;
+  border: 1px solid #aaaaaa;
+  margin-bottom: 10px;
+  color: #333333;
+}
+.ft-table > thead > tr > th,
+.ft-table > tbody > tr > th,
+.ft-table > tfoot > tr > th,
+.ft-table > thead > tr > td,
+.ft-table > tbody > tr > td,
+.ft-table > tfoot > tr > td {
+  border: 1px solid #aaaaaa;
+  font-size: 12px;
+  font-size: 1.2rem;
+  padding: 3px 5px;
+  vertical-align: top;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.ft-table > thead > tr > th,
+.ft-table > tbody > tr > th,
+.ft-table > tfoot > tr > th {
+  background: #eeeeee;
+}
+.ft-table > thead > tr > td,
+.ft-table > tbody > tr > td,
+.ft-table > tfoot > tr > td {
+  background-color: #ffffff;
+}
+.ft-table > thead > tr.even > td,
+.ft-table > tbody > tr.even > td,
+.ft-table > tfoot > tr.even > td {
+  background-color: #f8f8f8;
+}
+
+/*--- 入力フォーム用テーブル ---*/
+.ft-form {
+  width: 100%;
+  border: 0px;
+  margin-bottom: 10px;
+  border-collapse: separate;
+  border-spacing: 2px;
+  color: #333333;
+}
+.ft-form > thead > tr > th,
+.ft-form > tbody > tr > th,
+.ft-form > tfoot > tr > th,
+.ft-form > thead > tr > td,
+.ft-form > tbody > tr > td,
+.ft-form > tfoot > tr > td {
+  font-size: 12px;
+  font-size: 1.2rem;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+.ft-form > thead > tr > th,
+.ft-form > tbody > tr > th,
+.ft-form > tfoot > tr > th {
+  background: #eaeaea;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(90%, #f0f0f0), color-stop(100%, #eeeeee));
+  background: -webkit-linear-gradient(#f0f0f0 90%, #eeeeee 100%);
+  background: -moz-linear-gradient(#f0f0f0 90%, #eeeeee 100%);
+  background: -ms-linear-gradient(#f0f0f0 90%, #eeeeee 100%);
+  background: linear-gradient(#f0f0f0 90%, #eeeeee 100%);
+  text-align: left;
+  padding: 2px 5px 2px 2px;
+  vertical-align: top;
+}
+.ft-form > thead > tr > th > label,
+.ft-form > tbody > tr > th > label,
+.ft-form > tfoot > tr > th > label {
+  padding: 0px 3px 0px 10px;
+  line-height: 20px;
+  display: block;
+}
+.ft-form > thead > tr > th > label.ft-form-th-icon-16,
+.ft-form > tbody > tr > th > label.ft-form-th-icon-16,
+.ft-form > tfoot > tr > th > label.ft-form-th-icon-16 {
+  /* thにアイコンを置く場合、labelに指定する。*/
+
+  text-indent: -21px;
+  margin-left: 21px;
+}
+.ft-form > thead > tr > th,
+.ft-form > tbody > tr > th,
+.ft-form > tfoot > tr > th {
+  box-shadow: inset 0 2px 0 0 #f0f0f0, inset 0 -1px 0 0 #dedede, inset 0 -2px 0 0 #ffffff, inset 3px 0 0 0 #eeeeee, inset 5px 0 0 0 #5166d2;
+}
+.ft-form > thead > tr > td,
+.ft-form > tbody > tr > td,
+.ft-form > tfoot > tr > td {
+  background-color: #f5f5f5;
+  padding: 3px 5px;
+  vertical-align: top;
+  box-shadow: inset 0 -1px 0 0 #dedede;
+}
+
+.wd-15 {
+  width: 15% !important;
+}
+.wd-20 {
+  width: 20% !important;
+}
+
+.wd-100 {
+  width: 100% !important;
+}
+
+.td-none{
+	border: none!important;
+	background: transparent!important;
+}
+
+#ft-container {
+  min-height: 675px;
+}
+
+#ft-container .ft-box-error .ft-box-error-inner {
+    background: #ffeeee;
+    border: 2px solid #c00000;
+    font-weight: bold;
+    padding: 15px;
+    width: 80%;
+    margin: 100px auto 10px;
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-bottom-right-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#ft-container .ft-box-error .ft-box-error-inner dl {
+  font-size: 21px;
+  font-size: 1.3rem;
+}
+
+#ft-container .ft-box-error .ft-box-error-inner dl dt {
+}
+
+#ft-container .ft-box-error .ft-box-error-inner dl dt {
+    text-align: center;
+    font-size: 18px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    
+}
+#ft-container .ft-box-error .ft-box-error-inner dl dd {
+    margin-top: 10px;
+    font-size: 12px;
+    font-size: 1.2rem;
+    font-weight: normal;
+    text-align: left;
+}
+
+#ft-container .ft-box-error .ft-box-error-inner .inner-error {
+  background: #ffeeee;
+  border: 2px solid #c00000;
+}

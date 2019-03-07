@@ -1,0 +1,57 @@
+.form-to-error {
+	display: none;
+}
+
+.denki-layer-loader {
+	width: 100%;
+	position: absolute;
+	height: 100%;
+	background-color: #000000;
+	z-index: 1000;
+	top: 0;
+	left: 0;
+	opacity: 0.6;
+	text-align: center;
+	color: white;
+	border-radius: 5px;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=60)"; // IE8
+  	filter: alpha(opacity=60); // IE 5-7
+}
+
+.denki-layer-loader img{
+	position: absolute;
+	margin: auto;
+	top: 50%;
+	left: 50%;
+}
+
+.denki-layer-loader p{
+	position: absolute;
+	margin: auto;
+	top: 55%;
+	width: 100%;
+	text-align: center;
+}
+
+.denki-layer-blocker {
+	width: 100%;
+	position: absolute;
+	height: 100%;
+	background-color: white;
+	z-index: 999;
+	margin: 10px;
+	top: 0;
+	left: 0;
+	margin: auto;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.denki-layer-blocker > p{
+	position: absolute;
+	margin: auto;
+	top: 50px;
+	width: 100%;
+	text-align: center;
+	color: red;
+}

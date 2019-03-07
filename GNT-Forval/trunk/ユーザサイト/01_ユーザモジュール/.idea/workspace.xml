@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53163b05-b848-479c-a253-b96e6b1bd5ae" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/ft30user/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30user/target/" />
+    <ignored path="$PROJECT_DIR$/ft30ict/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30ict/target/" />
+    <ignored path="$PROJECT_DIR$/ft30vcsys/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30vcsys/target/" />
+    <ignored path="$PROJECT_DIR$/ft30jdsys/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30jdsys/target/" />
+    <ignored path="$PROJECT_DIR$/ft30dhsys/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30dhsys/target/" />
+    <ignored path="$PROJECT_DIR$/ft30usen/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30usen/target/" />
+    <ignored path="$PROJECT_DIR$/ft30unw/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30unw/target/" />
+    <ignored path="$PROJECT_DIR$/ft31userbpm/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft31userbpm/target/" />
+    <ignored path="$PROJECT_DIR$/ft30unwsys/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30unwsys/target/" />
+    <ignored path="$PROJECT_DIR$/ft30clsys/src/main/webapp/WEB-INF/classes/" />
+    <ignored path="$PROJECT_DIR$/ft30clsys/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="896756174">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="properties" value="2" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ft00common</find>
+      <find>FieldChecks</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../graphql-spring-boot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../gsop-backend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../spring-flyway-demo" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ft30clsys/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="190" />
+    <option name="y" value="-9" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="download" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30clsys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ft00common.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30dhsys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft30ict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01_ユーザモジュール" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ft31userbpm" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="All in user (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user (1)" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in user (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53163b05-b848-479c-a253-b96e6b1bd5ae" name="Default Changelist" comment="" />
+      <created>1545618230454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545618230454</updated>
+      <workItem from="1545618235188" duration="1916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1916000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Struts Assistant" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.45878524" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ft30clsys/src/main/resources/application_ja.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft30clsys/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft30clsys/src/main/webapp/WEB-INF/validator-rules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1074">
+          <caret line="200" column="95" selection-start-line="200" selection-start-column="84" selection-end-line="200" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft30clsys/src/main/webapp/WEB-INF/struts-config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="com.intellij.struts.diagram.DiagramEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ft30clsys/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1964512" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

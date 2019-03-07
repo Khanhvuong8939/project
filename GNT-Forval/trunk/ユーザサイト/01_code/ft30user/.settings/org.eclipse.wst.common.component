@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ft30user">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/stub/java"/>
+        <property name="context-root" value="ft30user"/>
+        <property name="java-output-path" value="/ft30user/src/main/webapp/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>

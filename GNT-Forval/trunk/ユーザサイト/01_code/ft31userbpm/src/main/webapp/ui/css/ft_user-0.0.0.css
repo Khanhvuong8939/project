@@ -1,0 +1,146 @@
+.padding-top15 {
+	padding-top: 15px !important;
+}
+
+.padding-top20 {
+	padding-top: 20px !important;
+}
+
+.padding-bottom10 {
+	padding-bottom: 10px;
+}
+
+.padding-bottom20 {
+	padding-bottom: 20px;
+}
+
+.padding-left20 {
+	padding-left: 20px !important;
+}
+
+.margin-right-3 {
+	margin-right: 3px !important;
+}
+
+.margin-left20 {
+	margin-left: 20px !important;
+}
+
+.margin-right20 {
+	margin-right: 20px !important;
+}
+.margin-right30 {
+	margin-right: 30px !important;
+}
+
+.margin-top8 {
+	margin-top: 8px !important;
+}
+
+.margin-bottom0 {
+	margin-bottom: 0px !important;
+}
+
+.w-5 {
+	width: 5%;
+}
+
+.wd-30-max150 {
+	width: 30%;
+	max-width: 120px;
+}
+
+.btn-w100 {
+	width: 100px;
+}
+
+.font-caution {
+	color: red;
+}
+
+.border-right-none {
+	border-right-width: 0 !important;
+	border-right-style: none !important;
+}
+
+.wd-15{
+	width: 15%;
+}
+
+.wd-20{
+  width: 20%;
+}
+
+.wd-25{
+	width: 25%;
+}
+
+.wd-40{
+  width: 40%;
+}
+
+.wd-50{
+  width: 50%;
+}
+
+.btn-w150{
+    width: 150px;
+}
+
+.btn-logout {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.btn-small {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.btn-width135 {
+  width: 135px;
+}
+
+.contract-table tr th {
+  color: rgb(255, 255, 255);
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+
+.contract-table tr td {
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+
+.mail-passwd {
+	margin-top: 10px;
+}
+
+#ft-contextpath {
+	display:none;
+}
+
+.imui-form-container-wide {
+	padding: 20px;
+	margin: 0 auto;
+	margin-top: 0px;
+	background-color: #eee;
+	color: #404040;
+	line-height: 18px;
+	background-color: #fdfdff;
+	margin-top: 10px;
+	border: 1px solid #aaa;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	width: 90%;
+}

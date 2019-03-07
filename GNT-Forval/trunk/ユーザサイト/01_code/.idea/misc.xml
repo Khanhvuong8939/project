@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ft30clsys" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30dhsys" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30ict" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30jdsys" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30unw" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30unwsys" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30usen" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30user" />
+    <file type="web" url="file://$PROJECT_DIR$/ft30vcsys" />
+    <file type="web" url="file://$PROJECT_DIR$/ft31userbpm" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

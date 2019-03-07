@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ft30vcsys</name>
+	<comment></comment>
+	<projects>
+		<project>ft00common</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.vjet.eclipse.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.sf.eclipsecs.core.CheckstyleBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.vjet.core.nature</nature>
+		<nature>net.sf.eclipsecs.core.CheckstyleNature</nature>
+		<nature>org.seasar.dolteng.eclipse.nature</nature>
+		<nature>com.sysdeo.eclipse.tomcat.tomcatnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>
